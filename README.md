@@ -19,9 +19,6 @@ Skills: JS (Electron, Node, React, React-Native, Vue ) / PHP (Laravel, Symfony) 
   <a href="https://www.linkedin.com/in/alisincar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/alisincarcom/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 
   <a href="https://www.alisincar.com">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
@@ -38,7 +35,6 @@ Skills: JS (Electron, Node, React, React-Native, Vue ) / PHP (Laravel, Symfony) 
 # 📊GitHub Stats :
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisincar&theme=react)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisincar&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,8 +42,6 @@ Skills: JS (Electron, Node, React, React-Native, Vue ) / PHP (Laravel, Symfony) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alisincar&theme=algolia)  
 
-
-![GitHub metrics](https://metrics.lecoq.io/alisincar?theme=algolia)  
 
 
 
